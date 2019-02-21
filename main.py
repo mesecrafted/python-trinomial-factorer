@@ -1,5 +1,6 @@
 from ft import factorTrinomial
 from guessCheckAdder import find
+from trinomialFactorer import factorTrinomial
 
 while True:
   check = True
