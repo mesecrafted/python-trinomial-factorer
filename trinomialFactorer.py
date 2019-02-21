@@ -1,5 +1,5 @@
 from fractions import gcd
-from adder import find
+from guessCheckAdder import find
 
 def factorTrinomial():
   box = [0,0,0,0]
