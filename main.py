@@ -1,4 +1,3 @@
-from ft import factorTrinomial
 from guessCheckAdder import find
 from trinomialFactorer import factorTrinomial
 
